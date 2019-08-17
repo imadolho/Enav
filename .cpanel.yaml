@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/repositories/testget
+    - export DEPLOYPATH=/repositories/testget/
